@@ -46,7 +46,7 @@ The Common Core is the foundation of the cursus.
 
 ## 📈 Progress
 - ✅ Piscine  
-- ✅ Common Core (in progress / finished)  
+- ✅ Common Core in progress   
 - 🚀 Specializations coming next  
 
 ---
