@@ -11,7 +11,7 @@ int ft_atoi(const char *str)
     signe = 1;
     while (str[i]==' ' || (9<=str[i] && str[i]<=13))
         i++;
-    if (str[i] == '-' || str[i] == '-')
+    if (str[i] == '-' || str[i] == '+')
     {
         if (str[i] == '-')
             signe *=-1;
